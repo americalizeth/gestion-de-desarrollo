@@ -1,1 +1,2 @@
 Practica 3.2 - Modificaciones realizadas en el proyecto
+Se realizaron modificaciones en el repositorio local como parte de la práctica de Fork.
